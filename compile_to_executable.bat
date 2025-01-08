@@ -1,0 +1,1 @@
+pyinstaller -F --paths=src src\main.py  
