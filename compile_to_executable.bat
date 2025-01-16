@@ -1,1 +1,1 @@
-pyinstaller -F --paths=src src\main.py  
+pyinstaller --onefile --noconsole main.py
